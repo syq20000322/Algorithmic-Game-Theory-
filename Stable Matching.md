@@ -49,4 +49,4 @@ Deferred-acceptance-leader-oriented (leaders, followers, preferences)
 
 Example
 
-![stable matching](http://m.qpic.cn/psc?/V51UtlER36fYng45Fb5k3ktWYR4BINB0/ruAMsa53pVQWN7FLK88i5jBFtKYo5Vy02zdMzIR1zeWhRe0aD*OvGthplDSWzN9KCJ6a66mXxgvzNs81zbWIYFclZMJyR*uh4dVw0lVnxqA!/b&bo=5wMQAgAAAAADB9Q!&rf=viewer_4)
+![stable matching](http://m.qpic.cn/psc?/V51UtlER36fYng45Fb5k3ktWYR4BINB0/ruAMsa53pVQWN7FLK88i5jBFtKYo5Vy02zdMzIR1zeWhRe0aD*OvGthplDSWzN9KCJ6a66mXxgvzNs81zbWIYFclZMJyR*uh4dVw0lVnxqA!/mnull&bo=5wMQAgAAAAADB9Q!&rf=photolist&t=5)
